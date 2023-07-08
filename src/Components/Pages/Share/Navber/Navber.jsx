@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"; // Import Link from react-router-dom if
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar     bg-black text-white   bg-opacity-50 ">
+      <div className="navbar  container mx-auto     bg-opacity-50 ">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden ">
@@ -80,8 +80,8 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <Link to="/" className="btn">
-            Button
+          <Link to="/login" className="btn">
+            LOGIN
           </Link>
         </div>
       </div>
