@@ -8,13 +8,13 @@ const Banner = () => {
   return (
     <div>
       <div className=" ">
-        <div className="relative   ">
+        <div className="relative">
           <div className="hidden md:block">
-            {/* <img
+            <img
               className="absolute  bg-center w-full mx- h-full inset-0"
-              src={bgImg}
+              src="https://i.ibb.co/MfkV8p6/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner-1.jpg"
               alt
-            /> */}
+            />
           </div>
 
           <div className="relative px-4 xl:px-0 container mx-auto md:flex items-center gap-8">
