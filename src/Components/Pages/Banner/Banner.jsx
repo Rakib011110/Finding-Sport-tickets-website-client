@@ -25,8 +25,8 @@ const Banner = () => {
               <div className="f-f-r text-base lg:text-base pb-20 sm:pb-0 pt-10 xl:pt-6">
                 <h2>
                   The next big thing starts here. Start building with Prodify
-                  and be the first to market with a product that is ready to
-                  take on the competition and delight your customers
+                  anirst to market with a product that is ready to take on the
+                  competition and delight your customers
                 </h2>
               </div>
               <div className="lg:flex">
